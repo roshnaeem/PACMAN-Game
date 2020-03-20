@@ -16,6 +16,7 @@ Clone the repository from your Unity editor and start playing.
 ## Built With
  * C#
  * Unity Editor
+ * Graphics
  
  <table><tr>
  <td  width="200" height= "250">Animator View</td>
