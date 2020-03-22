@@ -1,5 +1,8 @@
 # PACMAN-Game
 
+<img src= "Images\Pacman.gif">
+
+
 <table><tr>
 <td><img src="Images\Pac_start.JPG" ></td>
 <td><img src="Images\Pac_38.JPG" ></td>
