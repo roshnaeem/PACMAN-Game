@@ -1,6 +1,6 @@
 # PACMAN-Game
 
-<img src= "Images\Pacman.gif">
+<img src= "Images\Pacman.gif" height ="600">
 
 
 <table><tr>
