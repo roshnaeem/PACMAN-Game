@@ -1,5 +1,6 @@
 # PACMAN-Game
 
+Hurry and eat cookies before your enemies!!!
 <img src= "Images\Pacman.gif" height ="600">
 
 
